@@ -49,7 +49,9 @@
     <Compile Include="ArgumentVerify.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SampleClass.cs" />
     <Compile Include="SimpleMockExample.cs" />
+    <Compile Include="UnitTestSyntax.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
